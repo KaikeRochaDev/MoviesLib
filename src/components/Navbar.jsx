@@ -14,9 +14,6 @@ const Navbar = () => {
             <input type="text" placeholder="Busque um filme"/>
             <button type="submit"><BiSearchAlt2/></button>
         </form>
-        <Link to="/movie/1">Movie</Link>
-
-        <Link to="/search">Search</Link>
   </nav>
   )
 }
